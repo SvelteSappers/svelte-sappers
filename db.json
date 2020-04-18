@@ -1,0 +1,7 @@
+{
+"sappers": [
+            {"name":"Tom","github":tborychowski", "description":"Created [Perfect Home](https://madewithsvelte.com/perfect-home)"},
+            {"name":"Younkue Choi","github":daybrush", "description":"Created [Svelte Ruler Component](https://madewithsvelte.com/svelte-ruler)"},
+            {"name":"Tim Hall","github":timhall", "description":"Made [Svelte Observable](https://madewithsvelte.com/svelte-observable)"}
+   ]
+}
